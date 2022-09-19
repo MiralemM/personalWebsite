@@ -1,0 +1,199 @@
+.background_image{
+position: absolute;
+z-index: -1;
+width: 100%;
+height: 750px;
+top: 0px;
+}
+
+.profile_picture{
+position: relative;
+z-index: 1;
+width: 63%;
+height: auto;
+border-radius: 50%;
+margin-left: 140px;
+padding-top: 0%;
+margin-top: 0px;
+}
+
+.job{
+padding-bottom: 5.5rem;
+color: #fff;
+}
+
+.big_letters{
+color: #fff;
+font-size: 3rem;
+}
+
+.container-fluid{
+padding: 3% 15%;
+}
+.nav-item{
+padding: 0 18px;
+}
+
+#about{
+background-color: #7F8487;
+padding-top: 100px;
+margin-top: 0px;
+}
+
+.working-laptop{
+width: 50%;
+height: auto;
+}
+
+.programing_image{
+width: 50%;
+height: auto;
+}
+
+.navbarmedium{
+padding-left: 5%;
+padding-right: 5%;
+margin-left: 0px;
+margin-right: 0px;
+}
+
+.back-page{
+background-color: #7f8487;
+position: absolute;
+z-index: -2;
+height: 1200px;
+top: 0px;
+}
+
+#work{
+background-color: #1a1a1a;
+text-align: center;
+}
+
+.carousel-item{
+padding: 3% 15%;
+color: #fff;
+}
+
+h3{
+padding-bottom: 5%;
+}
+
+.d-block{
+padding-top: 3%;
+width: 80%;
+height: auto;
+}
+
+h2{
+text-align: center;
+color: #fff;
+padding-bottom: 1%;
+}
+
+.resume{
+text-align: center;
+margin-top: 20px;
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+}
+
+.leftone{
+margin-top: 10px;
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+}
+
+.rightone{
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+}
+
+.skillsone{
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);}
+
+.resumecont{
+padding-top: 0%;
+}
+
+.aboutme{
+padding-bottom: 0px;}
+
+.progress-bar{
+background-color: #003300;
+}
+
+.worktitle{
+padding-top: 7%;
+}
+
+#contact{
+background-color: #7F8487;
+}
+
+.info-row{
+text-align: center;
+color: white;
+padding-top: 7%;
+}
+
+.zica{
+font-size: 24px;
+border-radius: 50%;
+paddig: 15px;
+background: #dc6fb8;
+}
+
+.email-me{
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+padding: 20px 15px 30px 0;}
+
+.social-profiles{
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+padding: 20px 0 30px 0;
+margin_bottom: 20px;}
+
+.call-me{
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+padding: 20px 0 30px 15px;
+}
+
+.social-links a{
+font-size: 28px;
+padding: 0 14px;
+margin: 0 8px;
+}
+
+.message-row{
+box-shadow: 0 0 30px rgb(214 215 216 / 60%);
+padding-top: 7%;
+margin-top: 37px;
+}
+
+.text-center{
+padding-top: 4%;
+padding-bottom: 3%;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #dc6fb8 !important;
+}
+
+.btn-primary{
+border-color: #212529;
+}
+
+.btn:active{
+outline-color: white;
+}
+
+.footer_img{
+width: 100%;
+height: 250px;
+z-index: -1;
+position: absolute;
+}
+
+.bottom_page{
+text-align: center;
+color: #fff;
+padding-top: 150px;
+padding-bottom: 0;
+}
